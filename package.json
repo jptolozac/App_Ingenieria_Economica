@@ -5,7 +5,7 @@
     "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration production --base-href /App_Ingenieria_Economica/",
+    "build": "ng build --configuration production --base-href /ing-economica/",
     "deploy": "gh-pages -d dist/ing-economica",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
